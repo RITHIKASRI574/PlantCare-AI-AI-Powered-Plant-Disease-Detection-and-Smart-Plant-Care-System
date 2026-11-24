@@ -1,0 +1,9 @@
+
+streamlit>=1.60
+tensorflow>=2.16
+numpy
+keras>=3.0
+pandas>=2.2
+Pillow>=10.0
+gTTS>=2.5
+scikit-learn>=1.4

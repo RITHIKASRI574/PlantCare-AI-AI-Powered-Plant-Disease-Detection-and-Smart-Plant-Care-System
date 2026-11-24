@@ -1,0 +1,23 @@
+
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Large datasets
+dataset/
+dataset_split/
+
+# Private files and databases
+.env
+.streamlit/secrets.toml
+*.db
+*.sqlite
+*.sqlite3
+
+# Unnecessary files
+.vscode/
+*.log
+dataset_filenames.csv
+dataset_filenames.txt
